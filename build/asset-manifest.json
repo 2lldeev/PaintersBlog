@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PaintersBlog/static/css/main.2c5ace53.chunk.css",
+    "main.js": "/PaintersBlog/static/js/main.a3856daf.chunk.js",
+    "main.js.map": "/PaintersBlog/static/js/main.a3856daf.chunk.js.map",
+    "runtime-main.js": "/PaintersBlog/static/js/runtime-main.c3b949f3.js",
+    "runtime-main.js.map": "/PaintersBlog/static/js/runtime-main.c3b949f3.js.map",
+    "static/js/2.40386ee4.chunk.js": "/PaintersBlog/static/js/2.40386ee4.chunk.js",
+    "static/js/2.40386ee4.chunk.js.map": "/PaintersBlog/static/js/2.40386ee4.chunk.js.map",
+    "index.html": "/PaintersBlog/index.html",
+    "static/css/main.2c5ace53.chunk.css.map": "/PaintersBlog/static/css/main.2c5ace53.chunk.css.map",
+    "static/js/2.40386ee4.chunk.js.LICENSE.txt": "/PaintersBlog/static/js/2.40386ee4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3b949f3.js",
+    "static/js/2.40386ee4.chunk.js",
+    "static/css/main.2c5ace53.chunk.css",
+    "static/js/main.a3856daf.chunk.js"
+  ]
+}
